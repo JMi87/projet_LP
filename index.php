@@ -7,7 +7,7 @@
     <body>
         <?php
         
-        test
+        echo "lol";
         
         ?>
     </body>
